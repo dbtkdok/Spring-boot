@@ -11,7 +11,7 @@ public class DemoController {
 	@RequestMapping("/")
 	public String home() {
 		
-		System.out.println("Hello SpringBoot");
+		System.out.println("Hello asdSpringBoot");
 		
 		return "Hello SpringBoot";
 	}
